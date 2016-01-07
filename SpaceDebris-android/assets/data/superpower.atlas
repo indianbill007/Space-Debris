@@ -1,0 +1,68 @@
+
+superpower.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+superpower _anim1
+  rotate: false
+  xy: 1, 285
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+superpower _anim2
+  rotate: false
+  xy: 1, 143
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+superpower _anim3
+  rotate: false
+  xy: 143, 285
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+superpower _anim4
+  rotate: false
+  xy: 1, 1
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+superpower_anim5
+  rotate: false
+  xy: 143, 143
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+superpower_anim6
+  rotate: false
+  xy: 285, 285
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+superpower_anim7
+  rotate: false
+  xy: 143, 1
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+superpower_anim8
+  rotate: false
+  xy: 285, 143
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+superpower
+  rotate: false
+  xy: 285, 38
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1

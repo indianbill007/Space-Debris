@@ -1,0 +1,12 @@
+
+retryBig.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+retry_hdpi
+  rotate: false
+  xy: 1, 1
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1

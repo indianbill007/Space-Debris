@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false" >Space Debris</string>
+    <string name="app_id" translatable="false">Your Facebook app ID</string>
+    
+	
+	
+	
+	
+	<!-- No need to fill below given details-->
+	
+ 	<string name="interstitial_ad_unit_id" translatable="false">XXXXXXXXXXXXXXXXXX</string>
+    <string name="banner_ad_unit_id" translatable="false">XXXXXXXXXXXXXXXXXX</string>
+    
+    <string name="appId" translatable="false" >XXXXXXXXXXX</string>
+    <string name="appSignature" translatable="false">XXXXXXXXXXXXXX</string>
+  
+     
+    <!--******************************Test ID***************************************-->
+     
+ 
+
+ </resources>

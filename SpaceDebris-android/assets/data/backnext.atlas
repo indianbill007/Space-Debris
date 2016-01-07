@@ -1,0 +1,19 @@
+
+backnext.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+next
+  rotate: false
+  xy: 1, 1
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 246, 184
+  size: 162, 60
+  orig: 162, 60
+  offset: 0, 0
+  index: -1

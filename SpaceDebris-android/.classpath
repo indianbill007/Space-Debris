@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/SpaceDebris"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry exported="true" kind="lib" path="/SpaceDebris/libs/gdx.jar" sourcepath="/SpaceDebris/libs/gdx-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx-backend-android.jar" sourcepath="libs/gdx-backend-android-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx-backend-android-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/FlurryAnalytics-5.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="/SpaceDebris/libs/tween-engine-api-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/SpaceDebris/libs/tween-engine-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="/google-play-services_lib/libs/google-play-services.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/chartboost.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/ParseCrashReporting-1.8.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/Parse-1.8.2.jar"/>
+	<classpathentry kind="lib" path="libs/bolts-android-1.1.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/guava-r09.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/commons-codec.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/jsr305-3.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/sqlcipher.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/appnextTrackingSDK.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/gson-2.3.1.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

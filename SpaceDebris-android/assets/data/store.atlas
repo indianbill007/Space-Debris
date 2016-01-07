@@ -1,0 +1,33 @@
+
+store.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+5life_hdpi
+  rotate: false
+  xy: 1, 227
+  size: 726, 267
+  orig: 726, 267
+  offset: 0, 0
+  index: -1
+storescreen_hdpi
+  rotate: false
+  xy: 1, 63
+  size: 759, 162
+  orig: 759, 162
+  offset: 0, 0
+  index: -1
+buy_hdpi
+  rotate: false
+  xy: 729, 251
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+back_hdpi
+  rotate: false
+  xy: 1, 1
+  size: 162, 60
+  orig: 162, 60
+  offset: 0, 0
+  index: -1

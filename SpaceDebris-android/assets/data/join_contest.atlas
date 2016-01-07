@@ -1,0 +1,12 @@
+
+join_contest.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+joincontest
+  rotate: false
+  xy: 1, 1
+  size: 384, 66
+  orig: 384, 66
+  offset: 0, 0
+  index: -1

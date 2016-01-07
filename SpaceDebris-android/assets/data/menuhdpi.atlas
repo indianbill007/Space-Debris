@@ -1,0 +1,33 @@
+
+menuhdpi.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ready_hdpi
+  rotate: false
+  xy: 1, 273
+  size: 410, 206
+  orig: 410, 206
+  offset: 0, 0
+  index: -1
+taptoplay_hdpi
+  rotate: false
+  xy: 1, 1
+  size: 281, 270
+  orig: 281, 270
+  offset: 0, 0
+  index: -1
+fb_connect_hdpi
+  rotate: false
+  xy: 413, 421
+  size: 234, 58
+  orig: 234, 58
+  offset: 0, 0
+  index: -1
+store_hdpi
+  rotate: false
+  xy: 413, 371
+  size: 149, 48
+  orig: 149, 48
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+
+star.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Bigstar
+  rotate: false
+  xy: 1, 29
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+star_2_small
+  rotate: false
+  xy: 1, 1
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

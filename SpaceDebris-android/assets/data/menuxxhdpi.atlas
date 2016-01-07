@@ -1,0 +1,38 @@
+
+menuxxhdpi.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+taptoplay_hdpi
+  rotate: false
+  xy: 1, 232
+  size: 705, 685
+  orig: 705, 685
+  offset: 0, 0
+  index: -1
+fb_connect_hdpi
+  rotate: false
+  xy: 1, 119
+  size: 448, 111
+  orig: 448, 111
+  offset: 0, 0
+  index: -1
+store_hdpi
+  rotate: false
+  xy: 1, 1
+  size: 357, 116
+  orig: 357, 116
+  offset: 0, 0
+  index: -1
+
+menuxxhdpi2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ready_hdpi
+  rotate: false
+  xy: 1, 1
+  size: 892, 446
+  orig: 892, 446
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,33 @@
+
+levelscreenbig.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+currentlevel_hdpi
+  rotate: false
+  xy: 1, 1
+  size: 236, 236
+  orig: 236, 236
+  offset: 0, 0
+  index: -1
+locklevel_hdpi
+  rotate: false
+  xy: 239, 1
+  size: 236, 236
+  orig: 236, 236
+  offset: 0, 0
+  index: -1
+new game
+  rotate: false
+  xy: 477, 53
+  size: 160, 184
+  orig: 160, 184
+  offset: 0, 0
+  index: -1
+back_hdpi
+  rotate: false
+  xy: 639, 177
+  size: 162, 60
+  orig: 162, 60
+  offset: 0, 0
+  index: -1

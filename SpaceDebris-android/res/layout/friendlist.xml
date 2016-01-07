@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_gravity="center"
+    android:layout_height="500dp"
+     android:background="@drawable/ask_extra_lives" >
+
+    <RelativeLayout
+        android:id="@+id/imageView1"
+        android:layout_width="match_parent"
+        android:layout_height="290dp"
+        android:layout_centerInParent="true"
+       >
+
+         <GridView
+             android:id="@+id/friendlistgrid"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_alignParentBottom="true"
+             android:layout_marginLeft="25dp"
+             android:layout_marginRight="25dp"
+             android:numColumns="2" />
+            
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/closebtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/close_big_btn" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/imageView1"
+        android:textSize="12dp"
+        android:layout_marginLeft="23dp"
+        android:textColor="@color/black"
+        android:text="Note:Max you can tag 5 people" 
+         android:layout_marginRight="23dp"
+        />
+
+    <TextView
+        android:id="@+id/counter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_alignTop="@+id/sendbtn"
+        android:layout_marginTop="14dp"
+        android:text=""
+        android:textColor="#6A83E0" />
+
+    <ImageView
+        android:id="@+id/sendbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_toLeftOf="@+id/closebtn"
+        android:paddingTop="4dp"
+        android:src="@drawable/send" />
+
+</RelativeLayout>

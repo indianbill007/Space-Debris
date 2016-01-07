@@ -1,0 +1,12 @@
+
+refilllifeatlas_big.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+refill_life
+  rotate: false
+  xy: 1, 1
+  size: 657, 191
+  orig: 657, 191
+  offset: 0, 0
+  index: -1

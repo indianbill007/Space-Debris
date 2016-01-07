@@ -1,0 +1,12 @@
+
+buylife_xxhdpi.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+500_lives
+  rotate: false
+  xy: 1, 1
+  size: 778, 245
+  orig: 778, 245
+  offset: 0, 0
+  index: -1

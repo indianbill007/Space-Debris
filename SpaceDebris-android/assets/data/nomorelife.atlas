@@ -1,0 +1,47 @@
+
+nomorelife.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+askfriends_hdpi
+  rotate: false
+  xy: 1, 459
+  size: 539, 149
+  orig: 539, 149
+  offset: 0, 0
+  index: -1
+morelives_hdpi
+  rotate: false
+  xy: 1, 308
+  size: 539, 149
+  orig: 539, 149
+  offset: 0, 0
+  index: -1
+nomorelifes_hdpi
+  rotate: false
+  xy: 1, 157
+  size: 539, 149
+  orig: 539, 149
+  offset: 0, 0
+  index: -1
+nextlifeText
+  rotate: false
+  xy: 1, 63
+  size: 560, 92
+  orig: 560, 92
+  offset: 0, 0
+  index: -1
+new game
+  rotate: false
+  xy: 542, 424
+  size: 160, 184
+  orig: 160, 184
+  offset: 0, 0
+  index: -1
+back_hdpi
+  rotate: false
+  xy: 1, 1
+  size: 162, 60
+  orig: 162, 60
+  offset: 0, 0
+  index: -1

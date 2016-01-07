@@ -1,0 +1,54 @@
+
+levelscreen.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wonderfull_hdpi
+  rotate: false
+  xy: 1, 198
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+beatfriend_score_hdpi
+  rotate: false
+  xy: 483, 757
+  size: 446, 241
+  orig: 446, 241
+  offset: 0, 0
+  index: -1
+5life_hdpi
+  rotate: false
+  xy: 1, 75
+  size: 325, 121
+  orig: 325, 121
+  offset: 0, 0
+  index: -1
+storescreen_hdpi
+  rotate: false
+  xy: 483, 685
+  size: 320, 70
+  orig: 320, 70
+  offset: 0, 0
+  index: -1
+5life
+  rotate: false
+  xy: 1, 1
+  size: 193, 72
+  orig: 193, 72
+  offset: 0, 0
+  index: -1
+newgame_hdpi
+  rotate: false
+  xy: 328, 81
+  size: 100, 115
+  orig: 100, 115
+  offset: 0, 0
+  index: -1
+store_hdpi
+  rotate: false
+  xy: 483, 635
+  size: 149, 48
+  orig: 149, 48
+  offset: 0, 0
+  index: -1
